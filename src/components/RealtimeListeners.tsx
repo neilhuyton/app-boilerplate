@@ -1,7 +1,9 @@
-// import { useExampleRealtime } from "@/hooks/useExampleRealtime";
+// import { useListRealtime } from "@/hooks/list/useListRealtime";
+// import { useTaskRealtime } from "@/hooks/task/useTaskRealtime";
 
 export function RealtimeListeners() {
-  // useExampleRealtime();
+  // useListRealtime();
+  // useTaskRealtime();
 
   return null;
 }
